@@ -13,9 +13,17 @@
             android:supportsRtl="true"
             android:theme="@style/AppTheme"
             tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name="si.inova.zimskasola.LogIn">
+        <activity
+                android:name="si.inova.zimskasola.Main2Activity"
+                android:label="@string/title_activity_main2">
+        </activity>
+        <activity android:name="si.inova.zimskasola.ErrorScreen">
         </activity>
         <activity android:name="si.inova.zimskasola.SplashScreen">
+        </activity>
+        <activity android:name="si.inova.zimskasola.LogIn">
+        </activity>
+        <activity android:name="si.inova.zimskasola.MyFragmentActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
 

@@ -5,4 +5,12 @@
     <string name="label_login">Prijava</string>
     <string name="label_login_explain">Za uporabo aplikacije se moraš prijaviti.</string>
     <string name="button_login">PRIJAVI SE</string>
+    <string name="login_fail_text">Prijava ni uspela, poskusi ponovno.</string>
+    <string name="label_inova">INOVA IT</string>
+    <string name="label_error_text">Ups, prišlo je do napake.</string>
+    <string name="label_check_connection">Preveri internetno povezavo in poskusi znova.</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
 </resources>
